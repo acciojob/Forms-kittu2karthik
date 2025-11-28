@@ -17,7 +17,7 @@ function App() {
 
         <Routes>
           <Route path="/" element={<Form />} />
-          <Route path="/ref" element={<FormRef />} />
+          <Route path="/ref" element={<FormRef />} />        
           <Route path="/state" element={<FormState />} />
         </Routes>
       </div>
